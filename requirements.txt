@@ -1,0 +1,14 @@
+# System Requirements:
+# Make sure these are installed on your system
+openssl>=1.1.1
+android-sdk-build-tools  # for aapt
+
+# Python Package Requirements
+frida-tools>=12.0.0
+hexdump>=3.3.0
+construct>=2.10.0   # For binary parsing
+colorama>=0.4.6     # For colored terminal output
+
+# Optional but recommended
+frida-compile>=16.0.0  # For compiling Frida scripts
+objection>=1.11.0    # Useful for mobile app analysis
