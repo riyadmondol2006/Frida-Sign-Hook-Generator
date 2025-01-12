@@ -4,7 +4,12 @@ A powerful Android security research tool that automatically generates Frida scr
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+## Watch the Video
+
 [![YouTube Video](https://img.youtube.com/vi/qrC0qOCZ3DQ/0.jpg)](https://youtu.be/qrC0qOCZ3DQ?si=5lJZBaH00jvJ-eJ1)
+
+[Click here to watch the video on YouTube](https://youtu.be/qrC0qOCZ3DQ?si=5lJZBaH00jvJ-eJ1)
+
 
 ## 📱 Features
 
